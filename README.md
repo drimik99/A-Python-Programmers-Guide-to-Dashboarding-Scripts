@@ -1,1 +1,1 @@
-# Welcome to the Dash Blog Series Scripts 
+# Dash Blog Series Scripts 
