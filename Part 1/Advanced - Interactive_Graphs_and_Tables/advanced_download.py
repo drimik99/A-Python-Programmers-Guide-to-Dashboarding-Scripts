@@ -5,6 +5,7 @@ html.Div([
 
 
 # callback function
+# note: 'directory' indicates the location of the raw_graph_data.csv file
 @app.server.route("/dash/data_download")
 def download_data():
 	return flask.send_file(directory + 'raw_graph_data.csv',

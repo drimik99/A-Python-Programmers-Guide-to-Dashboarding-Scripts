@@ -1,4 +1,4 @@
-app.layout = html.Div(children=[   
+html.Div(children=[   
 	html.Div([
     	dash_core_components.Graph(
         	id='example-graph',
