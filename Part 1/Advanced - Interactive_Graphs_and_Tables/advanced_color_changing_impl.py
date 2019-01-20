@@ -1,4 +1,5 @@
 html.Div(children=[
+	html.H1(children=' Chart area with varying colors'),
 	dash_core_components.Graph(
     	id='example-graph',
     	figure={
